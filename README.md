@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Edward
+- 👀 I’m interested in Gaming and Coding
+- 🌱 I’m currently learning C and C++
+- 💞️ I’m looking to collaborate On Action RPG`s and Shooters.
+- 📫 How to reach me Is to Message me on Github, Or To Comment on my steam profile (Edwardplayz)
